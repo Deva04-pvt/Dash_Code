@@ -142,9 +142,6 @@ export default function Home() {
         <h1 className="text-2xl md:text-3xl font-semibold">Dashboard</h1>
       </div>
       <div className="bg-black text-white min-h-screen p-4 md:p-6 lg:p-8">
-        <div className="flex justify-between items-center mb-4">
-          <h1 className="text-2xl md:text-3xl font-semibold">Dashboard</h1>
-        </div>
         <div className="grid grid-cols-1 lg:grid-cols-5 gap-4 mb-4">
           <Card className="bg-black p-2 md:p-4 lg:col-span-3 rounded-lg">
             <CardHeader>
